@@ -1,5 +1,6 @@
 public class Person {
 
+    //added line
     String name;
     static int noPersons = 0;
 
