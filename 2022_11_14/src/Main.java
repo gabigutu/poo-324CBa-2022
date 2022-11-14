@@ -29,6 +29,7 @@ public class Main {
         somethingStatic.showStrComunNonStatic();
 
         // something for testing
+        // something2
 
 
     }
