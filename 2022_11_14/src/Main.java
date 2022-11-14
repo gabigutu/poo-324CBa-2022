@@ -28,6 +28,8 @@ public class Main {
         Person.SomethingStatic.showStrComun();
         somethingStatic.showStrComunNonStatic();
 
+        // something for testing
+
 
     }
 }
